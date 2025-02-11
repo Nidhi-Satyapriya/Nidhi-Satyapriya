@@ -38,7 +38,7 @@
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhi-satyapriya&show_icons=true&locale=en&layout=compact" alt="nidhi-satyapriya" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhi-satyapriya&show_icons=true&locale=en" alt="nidhi-satyapriya" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidhi-satyapriya&" alt="nidhi-satyapriya" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=nidhi-satyapriya&" alt="nidhi-satyapriya" /></p>
 </br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidhi-Satyapriya&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   </br>
