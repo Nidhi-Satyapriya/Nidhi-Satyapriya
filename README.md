@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nidhi-Satyapriya?tab=repositories](https://github.com/Nidhi-Satyapriya?tab=repositories)
 
-- 💬 Ask me about **Machine Learning,Deep Learning, React.JS, RESTful APIs**
+- 💬 Ask me about **Machine Learning, Deep Learning, MERN, RESTful APIs**
 
 - 📫 How to reach me **satyapriyanidhi@gmail.com**
 
