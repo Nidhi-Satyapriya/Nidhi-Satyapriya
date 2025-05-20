@@ -6,7 +6,7 @@
 
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidhi-satyapriya" alt="nidhi-satyapriya" /></a> </p>
 
-- 🌱 I’m currently learning **Core ML & AI Skills, MLOps- Model Deployment, CI/CD Pipelining, Cloud Services**
+- 🌱 I’m currently learning **Core ML & AI Skills, LLMs, Gen-AI, CI/CD Pipelining, Cloud Services**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nidhi-Satyapriya?tab=repositories](https://github.com/Nidhi-Satyapriya?tab=repositories)
 
