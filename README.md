@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Core ML & AI Skills, LLMs, Gen-AI, CI/CD Pipelining, Cloud Services**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nidhi-Satyapriya?tab=repositories](https://github.com/Nidhi-Satyapriya?tab=repositories)
+- 👨‍💻 Know me more at [Building_NidhiSatyapriya](nidhi-satyapriya.github.io/Portfolio/)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, MERN, RESTful APIs**
 
