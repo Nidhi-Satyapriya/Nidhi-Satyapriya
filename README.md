@@ -14,7 +14,7 @@ I am a Machine Learning-focused developer passionate about building intelligent 
 I observe closely — when I spot a real-world problem or an emerging trend, it goes from my mental processor to my hand scheduler, and I start building a scalable, and optimized solution. 
 
 
-- 🌱 Currently grinding: **Core ML/ DL, LLMs, Agentic AI, MERN, API, CI/CD**
+- 🌱 Currently grinding: **Core ML/ DL, LLMs, Agentic AI, MERN, FastAPI, CI/CD**
 - 👨‍💻 Know me more: [nidhi-satyapriya.github.io/Portfolio](https://nidhi-satyapriya.github.io/Portfolio/)
 - 📫 Reach out at: **satyapriyanidhi@gmail.com**
 
